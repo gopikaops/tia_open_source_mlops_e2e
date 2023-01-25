@@ -1,4 +1,4 @@
 [core]
     remote = myremote
 ['remote "myremote"']
-    url = ../scratch
+    url = /workspaces/tia_open_source_mlops_e2e/scratch
